@@ -1,4 +1,5 @@
 rencana maen wpu
-- dipantai
-- taman
-- game
+
+-pantai
+-naik gunung
+-game
